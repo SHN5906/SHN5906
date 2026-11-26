@@ -1,3 +1,5 @@
+<img src="banner.gif" width="100%" alt="Une mascotte en pixels flotte entre deux mains tendues l'une vers l'autre" />
+
 ### Sohan
 
 Étudiant à Epitech (promo 2028). Je dirige Zyrk, mon agence sur la Côte d'Azur : sites internet, systèmes sur mesure pour les professionnels, réalisation et montage vidéo.
