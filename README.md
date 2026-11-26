@@ -1,4 +1,4 @@
-### Sohan
+<p align="right"><b>Français</b> · <a href="https://github.com/SHN5906/SHN5906/blob/main/README.en.md">English</a></p>
 
 Je dirige [Zyrk](https://zyrk.fr), mon agence sur la Côte d'Azur : sites internet, outils métier pour les professionnels, réalisation et montage vidéo.
 
