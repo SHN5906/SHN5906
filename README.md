@@ -1,6 +1,6 @@
 ### Sohan
 
-Étudiant à Epitech (promo 2028). Je dirige Zyrk, mon agence sur la Côte d'Azur : sites internet, systèmes sur mesure pour les professionnels, réalisation et montage vidéo.
+Étudiant à Epitech (promo 2028). Je dirige [Zyrk](https://zyrk.fr), mon agence sur la Côte d'Azur : sites internet, systèmes sur mesure pour les professionnels, réalisation et montage vidéo.
 
 **En production**
 
@@ -19,3 +19,5 @@
 - [GameFolio](https://github.com/SHN5906/Gamefolio) : jeu de cartes à collectionner en monnaie fictive
 
 **Stack :** TypeScript, Next.js, React, Tailwind, Supabase, Python, Frappe/ERPNext
+
+**Contact :** [zyrk.fr/contact](https://zyrk.fr/contact)
