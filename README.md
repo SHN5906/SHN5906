@@ -1,6 +1,6 @@
 ### Sohan
 
-Étudiant à Epitech (promo 2028). Je dirige [Zyrk](https://zyrk.fr), mon agence sur la Côte d'Azur : sites internet, systèmes sur mesure pour les professionnels, réalisation et montage vidéo.
+Étudiant à Epitech (promo 2028). Je dirige [Zyrk](https://zyrk.fr), mon agence sur la Côte d'Azur : sites internet, outils métier pour les professionnels, réalisation et montage vidéo.
 
 **En production**
 
