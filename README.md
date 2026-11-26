@@ -8,11 +8,11 @@
 
 - [Forex Drilling](https://forexdrilling.com) : site d'un contracteur de forage, Singapour et Papouasie-Nouvelle-Guinée
 
-  <a href="https://forexdrilling.com"><img src="captures/forex-drilling.gif" width="100%" alt="Défilement de la page d'accueil de Forex Drilling : hero, accroche Built on drilling, appel à contact" /></a>
+  <a href="https://forexdrilling.com"><img src="captures/forex-drilling.gif" width="100%" alt="Navigation sur le site de Forex Drilling : défilement de l'accueil, clic sur Fleet, puis page Fleet jusqu'à la liste des foreuses" /></a>
 
 - [Smart Workwear Safety](https://www.smarttwear.com) : site d'un fournisseur de vêtements de travail et d'EPI en Papouasie-Nouvelle-Guinée, collections présentées sur un modèle 3D
 
-  <a href="https://www.smarttwear.com"><img src="captures/smart-workwear.gif" width="100%" alt="Défilement de la page d'accueil de Smart Workwear Safety : hero, puis rotation du modèle 3D équipé de la section Shop by collection" /></a>
+  <a href="https://www.smarttwear.com"><img src="captures/smart-workwear.gif" width="100%" alt="Défilement de la page d'accueil de Smart Workwear Safety : hero, rotation du modèle 3D de la section Shop by collection, puis marques, broderie et machines" /></a>
 
 **À côté**
 
