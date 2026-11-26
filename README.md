@@ -13,6 +13,8 @@ I run [Zyrk](https://zyrk.fr/en), my agency on the French Riviera: websites, bus
 
   <a href="https://www.smarttwear.com"><img src="captures/smart-workwear.gif" width="100%" alt="Smart Workwear Safety home page: hero, rotation of the 3D model in the Shop by collection section, then brands, embroidery and machines" /></a>
 
+- Forex Drilling ERP (Frappe): site safety, maintenance and rig telemetry
+
 **Side projects**
 
 - [claude-maskot](https://github.com/SHN5906/claude-maskot): your Claude Code session status, as a macOS widget
@@ -39,6 +41,8 @@ Je dirige [Zyrk](https://zyrk.fr), mon agence sur la Côte d'Azur : sites intern
 - [Smart Workwear Safety](https://www.smarttwear.com) : site d'un fournisseur de vêtements de travail et d'EPI en Papouasie-Nouvelle-Guinée, collections présentées sur un modèle 3D
 
   <a href="https://www.smarttwear.com"><img src="captures/smart-workwear.gif" width="100%" alt="Défilement de la page d'accueil de Smart Workwear Safety : hero, rotation du modèle 3D de la section Shop by collection, puis marques, broderie et machines" /></a>
+
+- ERP de Forex Drilling (Frappe) : sécurité sur site, maintenance et télémétrie des foreuses
 
 **À côté**
 
