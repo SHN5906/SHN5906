@@ -1,6 +1,6 @@
 ### Sohan
 
-Étudiant à Epitech (promo 2028). Je dirige [Zyrk](https://zyrk.fr), mon agence sur la Côte d'Azur : sites internet, outils métier pour les professionnels, réalisation et montage vidéo.
+Je dirige [Zyrk](https://zyrk.fr), mon agence sur la Côte d'Azur : sites internet, outils métier pour les professionnels, réalisation et montage vidéo.
 
 **En production**
 
@@ -16,7 +16,7 @@
 
 - [claude-maskot](https://github.com/SHN5906/claude-maskot) : l'état de ta session Claude Code, en widget macOS
 - [Organizr](https://github.com/SHN5906/Organizr) : planification de missions et espace client
-- [GameFolio](https://github.com/SHN5906/Gamefolio) : jeu de cartes à collectionner en monnaie fictive
+- [Gamefolio](https://github.com/SHN5906/Gamefolio) : jeu de cartes à collectionner en monnaie fictive
 
 **Stack :** TypeScript, Next.js, React, Tailwind, Supabase, Python, Frappe/ERPNext
 
