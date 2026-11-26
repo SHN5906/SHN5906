@@ -15,8 +15,8 @@ Je dirige [Zyrk](https://zyrk.fr), mon agence sur la Côte d'Azur : sites intern
 **À côté**
 
 - [claude-maskot](https://github.com/SHN5906/claude-maskot) : l'état de ta session Claude Code, en widget macOS
-- [Organizr](https://github.com/SHN5906/Organizr) : planification de missions et espace client
-- [Gamefolio](https://github.com/SHN5906/Gamefolio) : jeu de cartes à collectionner en monnaie fictive
+- Organizr : planification de missions et espace client
+- Gamefolio : jeu de cartes à collectionner en monnaie fictive
 
 **Stack :** TypeScript, Next.js, React, Tailwind, Supabase, Python, Frappe/ERPNext
 
