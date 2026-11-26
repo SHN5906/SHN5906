@@ -7,8 +7,16 @@
 **En production**
 
 - [Azur Cover](https://azurcover.com) : site d'un spécialiste de l'étanchéité et du cool roofing
+
+  <a href="https://azurcover.com"><img src="captures/azur-cover.gif" width="100%" alt="Défilement de la page d'accueil d'Azur Cover : hero vidéo, références clients, section Cool Roofing" /></a>
+
 - [Forex Drilling](https://forexdrilling.com) : site d'un contracteur de forage, Singapour et Papouasie-Nouvelle-Guinée
+
+  <a href="https://forexdrilling.com"><img src="captures/forex-drilling.gif" width="100%" alt="Défilement de la page d'accueil de Forex Drilling : hero, accroche Built on drilling, appel à contact" /></a>
+
 - [Trias Oceanic](https://trias-oceanic.vercel.app) : site d'un distributeur d'équipements miniers, Papouasie-Nouvelle-Guinée
+
+  <a href="https://trias-oceanic.vercel.app"><img src="captures/trias-oceanic.gif" width="100%" alt="Défilement de la page d'accueil de Trias Oceanic : hero, marques partenaires, appel à devis" /></a>
 
 **À côté**
 
