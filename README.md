@@ -6,17 +6,13 @@
 
 **En production**
 
-- [Azur Cover](https://azurcover.com) : site d'un spécialiste de l'étanchéité et du cool roofing
-
-  <a href="https://azurcover.com"><img src="captures/azur-cover.gif" width="100%" alt="Défilement de la page d'accueil d'Azur Cover : hero vidéo, références clients, section Cool Roofing" /></a>
-
 - [Forex Drilling](https://forexdrilling.com) : site d'un contracteur de forage, Singapour et Papouasie-Nouvelle-Guinée
 
   <a href="https://forexdrilling.com"><img src="captures/forex-drilling.gif" width="100%" alt="Défilement de la page d'accueil de Forex Drilling : hero, accroche Built on drilling, appel à contact" /></a>
 
-- [Trias Oceanic](https://trias-oceanic.vercel.app) : site d'un distributeur d'équipements miniers, Papouasie-Nouvelle-Guinée
+- [Smart Workwear Safety](https://www.smarttwear.com) : site d'un fournisseur de vêtements de travail et d'EPI en Papouasie-Nouvelle-Guinée, collections présentées sur un modèle 3D
 
-  <a href="https://trias-oceanic.vercel.app"><img src="captures/trias-oceanic.gif" width="100%" alt="Défilement de la page d'accueil de Trias Oceanic : hero, marques partenaires, appel à devis" /></a>
+  <a href="https://www.smarttwear.com"><img src="captures/smart-workwear.gif" width="100%" alt="Défilement de la page d'accueil de Smart Workwear Safety : hero, puis rotation du modèle 3D équipé de la section Shop by collection" /></a>
 
 **À côté**
 
